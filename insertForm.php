@@ -4,7 +4,7 @@
         <title>Insert Form</title>
     </head>
     <body>
-        <h1>Book Record Managment</h1>
+        <h1>Wellcone In Book Record Managment</h1>
 
         <form action="insertion.php" method="POST">
             <table>
@@ -27,5 +27,8 @@
                     <th></th>
                     <td><input type="submit" vale="insert" required /></td>
                 </tr>
+
+	<h3>if you add more record </h3>
+	<a href="insertion.php">click here</a>
     </body>
 </html>
